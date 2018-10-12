@@ -38,12 +38,6 @@ B.Sc. Thesis
 
 >Admission to Sharif University of Technology as a exceptional talented student for Ph.D. in computer engineering, 2016.
 
-## Research Interest
-1.	Machine Learning Security
-2.	Adversarial Deep Learning
-3.	Statistical Network Traffic Analysis
-4.  Deep Learning
-
 
 
 
