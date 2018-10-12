@@ -5,7 +5,8 @@ title: Education
 
 EDUCATION
 
-2016 - Now	Doctor of Philosophy in Computer Engineering, Major: Network Security, Sharif University of Technology, Tehran, Iran, GPA – (19.04 /20) 
+2016 - Now	
+>Doctor of Philosophy in Computer Engineering, Major: Network Security, Sharif University of Technology, Tehran, Iran, GPA – (19.04 /20) 
 Advisor: Dr. R. Jalili
 
 Stochastic Processes: 18.8
