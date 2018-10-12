@@ -1,15 +1,8 @@
 ---
 layout: page
-title: 'Adversarial ML'
+title: 'Contact me'
 ---
 
-Email:
-amsadeghzadeh@ce.sharif.edu
-amsadeghzadeh@gmail.com
+Email:<br>amsadeghzadeh_at_ce.sharif.edu<br>amsadeghzadeh_at_gmail.com
 
-Lab:
-[Data And Network Security Lab (DNSL)](http://dnsl.ce.sharif.edu)
-Room 501, fifth floor,
-Department of Computer Engineering,
-Sharif University of Technology,
-Azadi Ave. , Tehran, Iran
+Lab:<br>[Data And Network Security Lab (DNSL)](http://dnsl.ce.sharif.edu)<br>Room 501, fifth floor,<br>Department of Computer Engineering,<br>Sharif University of Technology,<br>Azadi Ave. , Tehran, Iran
