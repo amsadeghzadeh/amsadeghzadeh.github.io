@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adversarial_ML
+title: 'Adversarial ML'
 ---
 
 
