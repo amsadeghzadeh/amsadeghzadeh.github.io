@@ -15,7 +15,7 @@ title: Education
 2010 – 2014	
 >Bachelor of Science in Information Technology Engineering, Isfahan University of Technology, Isfahan, Iran, Advisor: Dr. M. Manshaei
 
-#Thesis
+# Thesis
 
 Ph.D. Thesis
 >“Secure Learning in Adversarial Environments”, under supervision of Dr. R. Jalili, Sharif University of Technology.
