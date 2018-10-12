@@ -9,11 +9,15 @@ EDUCATION
 >Doctor of Philosophy in Computer Engineering, Major: Network Security, Sharif University of Technology, Tehran, Iran, GPA – (19.04 /20) 
 Advisor: Dr. R. Jalili
 
-Stochastic Processes: 18.8
-Machine Learning Theory: 19.2
-Social and Economic Networks: 20
-Deep Learning: 19.2
-Computer System Performance Evaluation: 18
+>>Stochastic Processes: 18.8
+
+>>Machine Learning Theory: 19.2
+
+>>Social and Economic Networks: 20
+
+>>Deep Learning: 19.2
+
+>>Computer System Performance Evaluation: 18
 
 
 2014 – 2016
