@@ -3,6 +3,7 @@ layout: post
 title: Introducing Lanyon
 ---
 
+I am a Ph.D. candidate at [Sharif University of Thechnology (SUT)](http://jekyllrb.com) working at the intersection of machine learning and computer security. My most recent line of work studies properties of neural networks from an adversarial perspective. I received my Ph.D. from UC Berkeley in 2018, and my B.A. in computer science and mathematics (also from UC Berkeley) in 2013.
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
