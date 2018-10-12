@@ -30,13 +30,13 @@ B.Sc. Thesis
 
 ## Honors
 
-Ranked 1st among B.Sc. students (2010 entries) of Information Technology Engineering in Isfahan University of Technology.
+>Ranked 1st among B.Sc. students (2010 entries) of Information Technology Engineering in Isfahan University of Technology.
 
-Admission to Sharif University of Technology as a exceptional talented student for M.Sc. in Information Technology, 2014.
+>Admission to Sharif University of Technology as a exceptional talented student for M.Sc. in Information Technology, 2014.
 
-Ranked 1st among M.Sc. students (2014 entries) of Information Technology Engineering in Sharif University of Technology.
+>Ranked 1st among M.Sc. students (2014 entries) of Information Technology Engineering in Sharif University of Technology.
 
-Admission to Sharif University of Technology as a exceptional talented student for Ph.D. in computer engineering, 2016.
+>Admission to Sharif University of Technology as a exceptional talented student for Ph.D. in computer engineering, 2016.
 
 ## Research Interest
 1.	Machine Learning Security
