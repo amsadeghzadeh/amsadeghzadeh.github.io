@@ -11,3 +11,4 @@ In the adversarial environment, the adversary can interfere in the training and 
 
 For more details, please read the following papers
 >Papernot, Nicolas, et al. "Towards the science of security and privacy in machine learning." arXiv preprint arXiv:1611.03814 (2016). ([arXiv:1611.03814](https://arxiv.org/abs/1611.03814))
+>([Towards the Science of Security and Privacy in Machine Learning.](https://pdfs.semanticscholar.org/ebab/687cd1be7d25392c11f89fce6a63bef7219d.pdf)) Nicolas Papernot, Patrick McDaniel, Arunesh Sinha, and Michael Wellman. 3rd IEEE European Symposium on Security and Privacy, London, UK
