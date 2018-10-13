@@ -10,5 +10,5 @@ Increasing use of machine learning algorithms in security applications, motivate
 In the adversarial environment, the adversary can interfere in the training and the prediction phases of machine learning algorithms. Adversarial example is one of the most important vulnerabilities in machine learning algorithms, which is intentionally designed by to evade the machine learning model.
 
 For more details, please read the following papers<br>
->[Towards the Science of Security and Privacy in Machine Learning.](https://pdfs.semanticscholar.org/ebab/687cd1be7d25392c11f89fce6a63bef7219d.pdf) Nicolas Papernot, Patrick McDaniel, Arunesh Sinha, and Michael Wellman. 3rd IEEE European Symposium on Security and Privacy , London, UK (2016)
+>[Towards the Science of Security and Privacy in Machine Learning.](https://pdfs.semanticscholar.org/ebab/687cd1be7d25392c11f89fce6a63bef7219d.pdf) Nicolas Papernot, Patrick McDaniel, Arunesh Sinha, and Michael Wellman. 3rd IEEE European Symposium on Security and Privacy , London, UK (2016) <br>
 >[Explaining and Harnessing Adversarial Examples.](https://arxiv.org/abs/1412.6572) Ian Goodfellow, Jonathon Shlens, and Christian Szegedy. arXiv preprint arXiv:1412.6572 (2014)
