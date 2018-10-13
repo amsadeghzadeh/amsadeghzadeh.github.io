@@ -8,3 +8,6 @@ Machine learning has shown significant success in solving complex problems, but 
 So far,  machine learning algorithms have been designed to run in benign environments. 
 Increasing use of machine learning algorithms in security applications, motivated adversaries to focus on the vulnerability of machine learning. 
 In the adversarial environment, the adversary can interfere in the training and the prediction phases of machine learning algorithms. Adversarial example is one of the most important vulnerabilities in machine learning algorithms, which is intentionally designed by to evade the machine learning model.
+
+For more details, please read the following papers
+>Papernot, Nicolas, et al. "Towards the science of security and privacy in machine learning." arXiv preprint arXiv:1611.03814 (2016). ([arXiv:1611.03814](https://arxiv.org/abs/1611.03814))
