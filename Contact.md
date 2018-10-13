@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Contact me'
+title: 'Contact Me'
 ---
 
 Email:<br>amsadeghzadeh_at_ce.sharif.edu<br>amsadeghzadeh_at_gmail.com
