@@ -5,11 +5,11 @@ title: Education
 
 
 2016 - Now	
->Doctor of Philosophy in Computer Engineering, Major: Network Security, Sharif University of Technology, Tehran, Iran, Advisor: Dr. R. Jalili
+>Doctor of Philosophy in Computer Engineering, Sharif University of Technology, Tehran, Iran, Advisor: Dr. R. Jalili
 
 
 2014 – 2016
->Masters of Science in Information Technology Engineering, Major: Network Security, Sharif University of Technology, Tehran, Iran, Advisor: Dr. R. Jalili
+>Masters of Science in Information Technology Engineering, Sharif University of Technology, Tehran, Iran, Advisor: Dr. R. Jalili
 
 
 2010 – 2014	
@@ -32,7 +32,7 @@ B.Sc. Thesis
 
 >Ranked 1st among B.Sc. students (2010 entries) of Information Technology Engineering in Isfahan University of Technology.
 
->Admission to Sharif University of Technology as a exceptional talented student for M.Sc. in Information Technology, 2014.
+>Admission to Sharif University of Technology as a exceptional talented student for M.Sc. in Information Technology Engineering, 2014.
 
 >Ranked 1st among M.Sc. students (2014 entries) of Information Technology Engineering in Sharif University of Technology.
 
