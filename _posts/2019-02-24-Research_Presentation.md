@@ -4,6 +4,6 @@ title: ابزارهای پژوهش
 permalink: /Blog(فارسی)/	
 ---
 
-<p dir="rtl" align="right">سلام</p>
+<p dir="rtl" align="right">سلام فنمپبلذنپلنپبذنم</p>
 
 
