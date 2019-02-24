@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <p dir="rtl" align="right">ارائه درباره ابزارهای پژوهش</p>
+title: 'ارائه درباره ابزارهای پژوهش'
 permalink: /Blog(فارسی)/	
 ---
 
