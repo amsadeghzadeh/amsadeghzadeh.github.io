@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ارائه درباره ابزارهای پژوهش'
+title: ابزارهای پژوهش
 permalink: /Blog(فارسی)/	
 ---
 
