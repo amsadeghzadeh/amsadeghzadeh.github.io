@@ -2,4 +2,4 @@
 layout: page
 title: 'Blog(فارسی)'
 ---
-خوش آمدید!
+<p dir="rtl" align="right">خوش آمدید!</p>
