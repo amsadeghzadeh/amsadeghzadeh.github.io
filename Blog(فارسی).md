@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 'Blog(فارسی)'
+title: '<p dir="rtl" align="right">خوش آمدید!</p>'
 ---
 <p dir="rtl" align="right">خوش آمدید!</p>
