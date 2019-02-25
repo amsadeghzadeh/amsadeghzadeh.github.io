@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ابزارهای پژوهش
-permalink: /Blog(فارسی)/	
+permalink: /Blog (Persian)/	
 ---  
 
 
