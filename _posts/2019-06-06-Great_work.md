@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quote
+title: Great Work
 permalink: /Blog/	
 ---
 
