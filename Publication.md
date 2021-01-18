@@ -4,7 +4,7 @@ title: Publication
 ---
 
 <br>
-><font color="black"><b>Adversarial Network Traffic: Towards Evaluating the Robustness of Deep Learning-Based Network Traffic Classification.</b></font> Joint work with S. Shiravi and R. Jalili [[Arxiv]](https://arxiv.org/abs/2003.01261)[[Github]](https://github.com/amsadeghzadeh/AdversarialNetworkTraffic)<br><br>
+><font color="black"><b>Adversarial Network Traffic: Towards Evaluating the Robustness of Deep Learning-Based Network Traffic Classification (Accepted in IEEE Transactions on Network and Service Management - TNSM),</b></font> Joint work with S. Shiravi and R. Jalili [[Arxiv]](https://arxiv.org/abs/2003.01261)[[Github]](https://github.com/amsadeghzadeh/AdversarialNetworkTraffic)<br><br>
 
 
 <br>
