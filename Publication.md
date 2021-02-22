@@ -8,4 +8,4 @@ title: Publication
 
 
 <br>
-><font color="black"><b>AWA: Adversarial Website Adaptation.</b></font> Joint work with B. Tajali and R. Jalili  [[Arxiv]](https://arxiv.org/abs/2012.10832)[[Github]](https://github.com/amsadeghzadeh/)<br><br>
+><font color="black"><b>AWA: Adversarial Website Adaptation.</b></font> Joint work with B. Tajali and R. Jalili  [[Arxiv]](https://arxiv.org/abs/2012.10832)[[Github]](https://github.com/amsadeghzadeh/AWA)<br><br>
