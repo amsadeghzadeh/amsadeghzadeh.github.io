@@ -20,9 +20,7 @@ permalink: /Blog_Persian/
 <p dir="rtl" align="right"><a href="https://drive.google.com/open?id=14dRtNtjRTHGWVhlY6qYNUndos4cNUefr">اسلایدها</a></p>
 
 ---
-layout: post
-title: نوشته‌ها
-permalink: /Blog_Persian/	
+نوشته‌ها
 ---  
 
 
