@@ -13,3 +13,6 @@ I'm not scared of a computer passing the turing test... I'm terrified of one tha
 Oh my friend we're older but no wiser <br />
 For in our hearts the dreams are still the same <br />
 [Gene Raskin]
+
+There's a lot of beauty in ordinary things, isn't that kind of the point? <br />
+[The Office]
