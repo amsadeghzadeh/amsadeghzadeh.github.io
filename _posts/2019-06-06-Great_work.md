@@ -17,5 +17,5 @@ For in our hearts the dreams are still the same <br />
 There's a lot of beauty in ordinary things, isn't that kind of the point? <br />
 [The Office]
 
-Never let success get to your head. Never let failure get to your heart.
+Never let success get to your head. Never let failure get to your heart.<br />
 [Ziad K. Abdelnour]
