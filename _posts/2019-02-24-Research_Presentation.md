@@ -22,7 +22,7 @@ permalink: /Blog_Persian/
 
 
 
-<p dir="rtl" align="right"><a href="https://drive.google.com/open?id=14dRtNtjRTHGWVhlY6qYNUndos4cNUefr">اسلایدها</a></p>
+<p dir="rtl" align="right"><a href="https://drive.google.com/file/d/1Q_zOfoOGo-vbU6C8ECzO-PVG4DmZOA1e/view?usp=sharing">اسلایدها</a></p>
 
 ---
 <p dir="rtl" align="right">
