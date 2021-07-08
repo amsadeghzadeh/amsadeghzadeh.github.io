@@ -5,7 +5,7 @@ permalink: /Blog_Persian/
 ---  
 
 ---
-<p dir="rtl" align="right">
+<p dir="rtl" align="center">
 ابزارهای پژوهش
   </p>
 
@@ -26,10 +26,12 @@ permalink: /Blog_Persian/
 <p dir="rtl" align="right"><a href="https://drive.google.com/file/d/1Q_zOfoOGo-vbU6C8ECzO-PVG4DmZOA1e/view?usp=sharing">اسلایدها</a></p>
 
 ---
-<p dir="rtl" align="right">
+<p dir="rtl" align="center">
 ابیات
 </p>
-***  
+
+---
+
 <p dir="rtl" align="right">
 <br /> خسته ای می پرسد:
 <br /> «رستگاری مان کو؟»
