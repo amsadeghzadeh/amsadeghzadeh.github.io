@@ -42,7 +42,9 @@ permalink: /Blog_Persian/
 <br />
 <br /> (جعفر کوش آبادی)
 
+  <p dir="rtl" align="right">
   <br />    ************************************
+    </p>
   
   <p dir="rtl" align="right">
 <br /> عاقلان نقطه پرگار وجودند ولی
@@ -50,6 +52,9 @@ permalink: /Blog_Persian/
 <br /> (حضرت حافظ)  
   </p>
   
+    <p dir="rtl" align="right">
+  <br />    ************************************
+    </p>
 
   <p dir="rtl" align="right">
 <br /> دانی که پس از مرگ چه ماند باقی
@@ -57,11 +62,20 @@ permalink: /Blog_Persian/
 <br /> (مولانا)  
   </p>
   
+    <p dir="rtl" align="right">
+  <br />    ************************************
+    </p>
+    
   <p dir="rtl" align="right">
 <br /> ناله پنداشت که در سینۀ ما جا تنگ است
 <br /> رفت و برگشت سراسیمه که دنیا تنگ است
 <br /> (نایب اصفهانی)  
   </p>
+  
+    <p dir="rtl" align="right">
+  <br />    ************************************
+    </p>
+    
 
  <p dir="rtl" align="right">
 <br /> فراموش می شوی
