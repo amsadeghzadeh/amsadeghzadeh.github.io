@@ -52,7 +52,7 @@ permalink: /Blog_Persian/
 <br /> (حضرت حافظ)  
   </p>
   
-    <p dir="rtl" align="right">
+  <p dir="rtl" align="right">
   <br />    ************************************
     </p>
 
@@ -62,9 +62,9 @@ permalink: /Blog_Persian/
 <br /> (مولانا)  
   </p>
   
-    <p dir="rtl" align="right">
+  <p dir="rtl" align="right">
   <br />    ************************************
-    </p>
+  </p>
     
   <p dir="rtl" align="right">
 <br /> ناله پنداشت که در سینۀ ما جا تنگ است
@@ -72,7 +72,7 @@ permalink: /Blog_Persian/
 <br /> (نایب اصفهانی)  
   </p>
   
-    <p dir="rtl" align="right">
+  <p dir="rtl" align="right">
   <br />    ************************************
     </p>
     
