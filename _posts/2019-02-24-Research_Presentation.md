@@ -67,6 +67,16 @@ permalink: /Blog_Persian/
   
   <p dir="rtl" align="right">
   <br />    ************************************
+      </p>
+  
+  <p dir="rtl" align="right">
+<br /> فرصت شمار صحبت کز این دوراهه منزل
+<br /> چون بگذریم دیگر نتوان به هم رسیدن
+<br /> (حضرت حافظ)  
+  </p>
+  
+  <p dir="rtl" align="right">
+  <br />    ************************************
   </p>
     
   <p dir="rtl" align="right">
