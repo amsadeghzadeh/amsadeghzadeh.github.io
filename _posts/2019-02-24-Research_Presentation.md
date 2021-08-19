@@ -119,10 +119,9 @@ permalink: /Blog_Persian/
   <br />    ************************************
     </p>
     
-    
-      <p dir="rtl" align="right">
+  <p dir="rtl" align="right">
   <br />    ************************************
-    </p>
+  </p>
   
   <p dir="rtl" align="right">
 <br /> صفائی بود دیشب با خیالت خلوت ما را
