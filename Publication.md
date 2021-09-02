@@ -12,3 +12,6 @@ title: Publication
 
 <br>
 ><font color="black"><b>Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples.</b></font> Joint work with F. Dehghan, A. M. Sobhanian and R. Jalili  [[Arxiv]](https://arxiv.org/abs/2106.11424)<br><br>
+
+<br>
+><font color="black"><b>Mal2GCN: A Robust Malware Detection Approach Using Deep Graph Convolutional Networks With Non-Negative Weights.</b></font> Joint work with O. Kargarnovin and R. Jalili  [[Arxiv]](http://arxiv.org/abs/2108.12473)<br><br>
