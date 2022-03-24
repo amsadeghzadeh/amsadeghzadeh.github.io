@@ -156,7 +156,6 @@ permalink: /Blog_Persian/
    <p dir="rtl" align="right">
   <br />    ************************************
     </p>
-    
     <br />
     در انزوای کوچه یکی ساز می زند
     <br />
@@ -196,4 +195,3 @@ permalink: /Blog_Persian/
  
    <p dir="rtl" align="right">
   <br />    ************************************
-    </p>
