@@ -28,5 +28,5 @@ There's a lot of beauty in ordinary things, isn't that kind of the point? <br />
 Never let success get to your head. Never let failure get to your heart.<br />
 [Ziad K. Abdelnour]
 
-Among those whom I like or admire, I can find no common denominator, but among those whom I love, I can: all of them make me laugh.
+Among those whom I like or admire, I can find no common denominator, but among those whom I love, I can: all of them make me laugh.<br />
 [W. H. Auden](https://en.wikipedia.org/wiki/W._H._Auden)
