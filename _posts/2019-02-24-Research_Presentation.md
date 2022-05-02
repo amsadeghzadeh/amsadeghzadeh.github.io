@@ -156,6 +156,7 @@ permalink: /Blog_Persian/
    <p dir="rtl" align="right">
   <br />    ************************************
     </p>
+    <p dir="rtl" align="right">
 در انزوای کوچه یکی ساز می زند
 <br />
 با من خیال کن که به آواز رفته ای
