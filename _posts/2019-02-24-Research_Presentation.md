@@ -45,8 +45,7 @@ permalink: /Blog_Persian/
   <p dir="rtl" align="right">
   <br />    ************************************
 
-    
-    </p>
+
 <p dir="rtl" align="right">
 <br /> خسته ای می پرسد:
 <br /> «رستگاری مان کو؟»
