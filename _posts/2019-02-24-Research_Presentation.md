@@ -35,6 +35,7 @@ permalink: /Blog_Persian/
 
 <p dir="rtl" align="right">
 <br /> از درسِ علوم جمله بگریزی بِهْ،
+<br />
 
 و اندر سرِ زلفِ دلبر آویزی به، <br />
 
