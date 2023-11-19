@@ -26,6 +26,23 @@ permalink: /Blog_Persian/
 <p dir="rtl" align="right"><a href="https://drive.google.com/file/d/1Q_zOfoOGo-vbU6C8ECzO-PVG4DmZOA1e/view?usp=sharing">اسلایدها</a></p>
 
 ---
+<p dir="rtl" align="center">
+    
+ابیات
+</p>
+
+---
+
+<p dir="rtl" align="right">
+<br /> از درسِ علوم جمله بگریزی بِهْ،
+
+و اندر سرِ زلفِ دلبر آویزی به، <br />
+
+ز آن پیش که روزگار خونت ریزد، <br />
+
+تو خونِ قِنینه در قدح ریزی به. <br />
+<br /> (خیام)
+
   <p dir="rtl" align="right">
   <br />    ************************************
 
@@ -280,9 +297,6 @@ permalink: /Blog_Persian/
           چشم در چشم یخبندان
  <br />
           بی‌شرمساری اندام برهنه‌شان از برگ
- <br />
- 
-          
  <br />
        عاشقان گياهانند كه ریشه‌هایشان فرو رفته است.
  <br />
