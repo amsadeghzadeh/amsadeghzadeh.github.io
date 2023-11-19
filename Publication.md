@@ -8,8 +8,6 @@ title: Publication
 
 <br>A. M. Sadeghzadeh, B. Tajali and R. Jalili, "AWA: Adversarial Website Adaptation," in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3109-3122, 2021, doi: 10.1109/TIFS.2021.3074295.<br>
 
-<br>
-><font color="black"><b>HODA: Hardness-Oriented Detection of Model Extraction Attacks.</b></font> Joint work with  A. M. Sobhanian, F. Dehghan, and R. Jalili  [[Arxiv]](https://arxiv.org/abs/2106.11424)<br><br>
+<br>A. M. Sadeghzadeh, A. M. Sobhanian, F. Dehghan and R. Jalili, "HODA: Hardness-Oriented Detection of Model Extraction Attacks," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2023.3320609.<br>
 
-<br>
-><font color="black"><b>Mal2GCN: A Robust Malware Detection Approach Using Deep Graph Convolutional Networks With Non-Negative Weights.</b></font> Joint work with O. Kargarnovin and R. Jalili  [[Arxiv]](http://arxiv.org/abs/2108.12473)<br><br>
+<br> Kargarnovin, O., Sadeghzadeh, A.M. & Jalili, R. Mal2GCN: a robust malware detection approach using deep graph convolutional networks with non-negative weights. J Comput Virol Hack Tech (2023). https://doi.org/10.1007/s11416-023-00498-7 <br>
