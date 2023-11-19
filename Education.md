@@ -4,7 +4,7 @@ title: Education
 ---
 
 
-2016 - Now	
+2016 - 2022	
 >Doctor of Philosophy in Computer Engineering, Sharif University of Technology, Tehran, Iran, Advisor: Dr. R. Jalili
 
 
