@@ -42,7 +42,7 @@ permalink: /Blog_Persian/
   <br />    ************************************
     </p>
 
-    <p dir="rtl" align="right">
+<p dir="rtl" align="right">
 بر سرِ تربتِ من با مِی و مُطرب بنشین<br />
 تا به بویت ز لحد رقص کُنان برخیزم<br />
 <br />
