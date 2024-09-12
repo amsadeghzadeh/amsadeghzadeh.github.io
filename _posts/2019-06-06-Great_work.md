@@ -53,7 +53,7 @@ and here while you listen, you can stand on my feet just to make sure I don’t 
 and if there’s anything you don’t like please let me know. <br>
 you see I have many masks and I can easily mould, <br>
 if you think I’m too loud i can be quiet,<br>
-if you think I’m too loud i can be cold, <br>
+if you think I’m too warm i can be cold, <br>
 if you think I’m too careful i can be reckless, <br>
 if you think I’m too mean i can be nice. <br>
 I can be it I can be what you like. <br>
