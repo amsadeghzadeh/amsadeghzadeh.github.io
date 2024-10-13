@@ -412,7 +412,6 @@ permalink: /Blog_Persian/
 <p dir="rtl" align="right">
   روز مرگم نفسی وعده دیدار بده<br />
 وان گهم تا به لحد فارغ و آزاد ببر<br />
- <br />
 <br /> (لسان الغیب)  
 
   <p dir="rtl" align="right">
