@@ -46,24 +46,4 @@ Because life is too short to be scared of being human.<br>
 [Whitney Hanson]<br>
 
 
-excuse me I’m sorry, I don’t mean to impose,<br>
-but if you have just a minute could you listen to this poem, <br>
-don’t worry it won’t offend anyone, and if it does i am already sorry, <br>
-and here while you listen, you can stand on my feet just to make sure I don’t step on your toes, <br>
-and if there’s anything you don’t like please let me know. <br>
-you see I have many masks and I can easily mould, <br>
-if you think I’m too loud i can be quiet,<br>
-if you think I’m too warm i can be cold, <br>
-if you think I’m too careful i can be reckless, <br>
-if you think I’m too mean i can be nice. <br>
-I can be it I can be what you like. <br>
-I can be what you like. <br>
-I don’t know what im like. <br>
-I don’t know what I like. <br>
-I don’t know who i am. <br>
-I’m not sure if I know the difference anymore between me and my masks.<br>
-I can’t take them off now, I’ve been wearing them for so long,<br>
-and im afraid if i do the person underneath will be gone,<br>
-who was l before I cared what you think,<br>
-which mask looks the most like who l want to be<br>
-[Whitney Hanson]
+
